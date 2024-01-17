@@ -1,4 +1,6 @@
-# co9c048588b4d0fa6e6a9caca
+# Basketball Scorecard
+
+A solo project as part of the Scrimba Javascript course. The aim was to build a Basketball Scorecard using HTML, CSS and Javascript from scratch. You can also view this project on the web at: [https://phenomenal-madeleine-773bf5.netlify.app](https://rococo-lokum-9fb351.netlify.app/)
 
 Quick start:
 
